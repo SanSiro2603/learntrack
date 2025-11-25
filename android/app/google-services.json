@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "659457059633",
+    "project_id": "learntrack-75e9c",
+    "storage_bucket": "learntrack-75e9c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659457059633:android:31336d76da038f83ecde10",
+        "android_client_info": {
+          "package_name": "com.example.learntrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqqXJyxtu1NZhcRllcy9k65mGMuY6xRnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
