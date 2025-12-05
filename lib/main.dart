@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:learntrack/pages/profile_page.dart';
 import 'pages/splash_screen.dart';
 import 'pages/login_page.dart';
 import 'pages/register_page.dart';
@@ -31,6 +32,7 @@ class LearnTrackApp extends StatelessWidget {
         '/home': (context) => const HomePage(),
         '/todo': (context) => const TodoPage(),
         '/tracker': (context) => const TrackerPage(),
+        '/profile': (context) => const ProfilePage(),
       },
     );
   }
